@@ -17,7 +17,7 @@ export const Footer: React.FC = () => {
                         </Flex>
                         
                         <Flex gap="5" align="center">
-                             <Link href="https://github.com/DreamReflex" target="_blank" rel="noopener noreferrer" color="gray" style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                             <Link href="https://github.com/phil616/s12e-rs-codec" target="_blank" rel="noopener noreferrer" color="gray" style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
                                 <GitHubLogoIcon width="18" height="18" /> GitHub
                             </Link>
                             <Text size="2" color="gray">© {new Date().getFullYear()} DreamReflex</Text>
