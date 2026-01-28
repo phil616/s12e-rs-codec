@@ -1,0 +1,9 @@
+:root {
+  --code-font: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--gray-1);
+}
